@@ -1,9 +1,9 @@
-/*
-** EPITECH PROJECT, 2019
-** CPE_dante_2018
-** File description:
-** print_maze
-*/
+/**
+ * @Author: la-montagne
+ * @Date:   2019-07-17T12:42:34+02:00
+ * @Last modified by:   la-montagne
+ * @Last modified time: 2019-07-17T12:50:55+02:00
+ */
 
 #include "../include/my.h"
 

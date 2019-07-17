@@ -1,9 +1,9 @@
-/*
-** EPITECH PROJECT, 2019
-** generator
-** File description:
-** my_strdup_2d
-*/
+/**
+ * @Author: la-montagne
+ * @Date:   2019-07-17T12:42:34+02:00
+ * @Last modified by:   la-montagne
+ * @Last modified time: 2019-07-17T12:50:49+02:00
+ */
 
 #include "../include/my.h"
 
